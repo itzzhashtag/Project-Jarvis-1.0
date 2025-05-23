@@ -102,11 +102,12 @@ Update values in configuration files and scripts as needed (e.g., user name, pre
 ---
 
 ## 📬 Contact & Support
-
-Made with ❤️ by **Aniket Chowdhury (Hashtag)**
-📧 Email: [aniket.cse.official@gmail.com](mailto:aniket.cse.official@gmail.com)
-🔗 GitHub: [@itzzhashtag](https://github.com/itzzhashtag)
-📷 Instagram: [@itzzhashtag](https://instagram.com/itzzhashtag)
+ 
+**Name:** Aniket Chowdhury (aka Hashtag)  
+**Email:** micro.aniket@example.com  
+**GitHub:** [itzzhashtag](https://github.com/itzzhashtag/AuraSense-IOT-ESP-1)  
+**Instagram:** [@itzz_hashtag](https://instagram.com/itzz_hashtag)  
+**LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)
 
 ---
 
