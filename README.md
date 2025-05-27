@@ -103,7 +103,7 @@ Update values in configuration files and scripts as needed (e.g., user name, pre
 
 ## 👤 Author & Contact
 
-🧑‍💻 **Name:** Aniket Chowdhury (aka Hashtag)  
+👨 **Name:** Aniket Chowdhury (aka Hashtag)  
 📧 **Email:** [micro.aniket@gmail.com](mailto:micro.aniket@gmail.com)  
 💼 **LinkedIn:** [itzz-hashtag](https://www.linkedin.com/in/itzz-hashtag/)  
 🐙 **GitHub:** [itzzhashtag](https://github.com/itzzhashtag)  
