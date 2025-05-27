@@ -8,10 +8,12 @@
 <img src="https://img.shields.io/badge/License-Personal--Use-orange?style=for-the-badge" alt="License Badge" />
 
 </div>
-<div align="center">
+
 #
+<div align="center">
  An AI-Powered Voice Assistant Built in Python for Dynamic Task Automation
 </div>
+
 ---
 
 ## 📌 Overview
