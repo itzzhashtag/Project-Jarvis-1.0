@@ -4,7 +4,7 @@
 **by [Aniket Chowdhury](mailto:micro.aniket@gmail.com) (aka `#Hashtag`)**
 
 <img src="https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge&logo=arduino" alt="Status Badge" />
-<img src="https://img.shields.io/badge/Built%20with-Arduino-blue?style=for-the-badge&logo=arduino" alt="Arduino Badge" />
+<img src="https://img.shields.io/badge/Built%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 <img src="https://img.shields.io/badge/License-Personal--Use-orange?style=for-the-badge" alt="License Badge" />
 
 </div>
