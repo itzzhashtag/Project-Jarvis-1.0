@@ -9,7 +9,8 @@
 
 </div>
 
-#
+---
+
 <div align="center">
  An AI-Powered Voice Assistant Built in Python for Dynamic Task Automation
 </div>
