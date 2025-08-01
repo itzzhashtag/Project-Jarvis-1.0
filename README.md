@@ -124,10 +124,23 @@ Update values in configuration files and scripts as needed (e.g., user name, pre
 
 ---
 
-## 🪪 License
+> *Project Jarvis 1.0 is the first step into the future of voice-controlled desktop automation.*
 
-Licensed under the **MIT License**. See the `LICENSE` file for more information.
+---
+## 📜 License
+
+This project is for **personal/home use only**.  
+For any collaboration, replication, or commercial adaptation, contact the author.
 
 ---
 
-> *Project Jarvis 1.0 is your first step into the future of voice-controlled desktop automation.*
+## ❤️ Acknowledgements
+
+This is a solo passion project, built with countless nights of tinkering, testing, and debugging.  
+If you find it useful or inspiring, feel free to ⭐ the repository or connect with me on social media!
+
+---
+
+> _“If the mind can create, the hands can translate.”_ – Hashtag
+
+---
